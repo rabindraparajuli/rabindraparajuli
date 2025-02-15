@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Rabindra Parajuli
+- 👋 Hi, I’m Rabindra Parajuli, an ecologist by training, a geospatial data scientist by profession, and a nature enthusiast at heart— exploring the world through data and camera lens.
 - 👀 I’m interested in statistical and geospatial modeling applications and ecological forecasting.
 - 🌱 I’m currently learning advanced geospatial analysis in Google Earth Engine (Python API) and ecological forecasting using deep learning.
 - 💞️ I’m looking to collaborate on integrating remote sensing and field data to address ecological and biodiversity-related questions using machine learning applications.
